@@ -2,20 +2,20 @@
 
 // Header:
 // Textos ( V );
-// Imagens (  );
+// Imagens ( V );
 // Links ( V );
 // Divisao basisa ( V );
-// Estilizacao ( );
+// Estilizacao ( V);
 
 // Main:
 // Textos ( V );
-// Imagens (  );
+// Imagens ( V );
 // Divisao basisa ( V );
-// Estilizacao ( );
+// Estilizacao ( V );
 
 // Footer:
-// Textos ( );
-// Imagens (  );
-// Links (  );
-// Divisao basisa ( );
-// Estilizacao ( );
+// Textos ( V );
+// Imagens ( X );
+// Links ( X );
+// Divisao basisa ( V );
+// Estilizacao ( X );
